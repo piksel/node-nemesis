@@ -1,0 +1,15 @@
+{
+  "name": "nemesis",
+  "version": "0.0.1",
+  "description": "A reversed communications protocol for firewalled communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R list"
+  },
+  "devDependencies": {
+    "assert": "0.4.x"
+  },
+  "repository": "",
+  "author": "nils måsén",
+  "license": "BSD"
+}
